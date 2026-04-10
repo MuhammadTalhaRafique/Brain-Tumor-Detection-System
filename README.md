@@ -40,11 +40,10 @@ It also includes an **Android application** built in Java that allows users to e
 
 ### Detection Result – Tumor Found
 
-![Tumor Detected](https://github.com/MuhammadTalhaRafique/BrainTumorDetectionAndroidApp/blob/2870dfc52aeec0851058510920d53040fa5fb7ae/detection_screen_yes_tumor.png)
-
+![Tumor Detected](https://github.com/MuhammadTalhaRafique/Brain-Tumor-Detection-System/blob/main/detection_screen_yes_tumor.png)
 ### Detection Result – No Tumor
 
-![No Tumor Detected](https://github.com/MuhammadTalhaRafique/BrainTumorDetectionAndroidApp/blob/2870dfc52aeec0851058510920d53040fa5fb7ae/detection_screen_no_tumor.png)
+![No Tumor Detected](https://github.com/MuhammadTalhaRafique/Brain-Tumor-Detection-System/blob/main/detection_screen_no_tumor.png)
 
 ---
 
